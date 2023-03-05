@@ -1,1 +1,1 @@
-# WPF Example
+# Just a Simple WPF Example that uses `INotifyPropertyChanged`
